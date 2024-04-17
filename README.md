@@ -9,6 +9,9 @@ Kaggle for datasets.
 
 Required reading lists
 
+
+
+
 gual, L., & Seguí, S. (2017). Introduction to data science. Springer International Publishing.
 Chapter 5 Database: Springer eBook Package English Computer Science
 Skiena, S. S (2017). The data science design manual. Springer International Publishing.
